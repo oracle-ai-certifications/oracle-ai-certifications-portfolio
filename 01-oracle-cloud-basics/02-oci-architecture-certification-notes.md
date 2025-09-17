@@ -61,3 +61,12 @@ OCI is designed with **layers of redundancy**:
 This layered architecture ensures **high availability, compliance readiness, and reliability** — critical topics for Oracle AI and Cloud certification exams.  
 
 ---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque (Eks2)**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+
+🕊️ **Siraat AI Academy**  
+*"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
+
+---
