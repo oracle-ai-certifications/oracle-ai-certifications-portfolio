@@ -99,7 +99,6 @@ Pre-built, enterprise-ready apps = **Software as a Service** (SaaS).
 ---
 
 ## 🌸 Final Thought
-- ☕ Coursera = **Chai Stall Practice** (informal, friendly)  
 - 🏆 Oracle Certifications = **Suit-Boot Recognition** (formal, enterprise-ready)  
 
 🌟 With Oracle AI + GenAI, you’re not just learning cloud — you’re building a **future-proof career**. 🌟
