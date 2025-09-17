@@ -102,3 +102,12 @@ Pre-built, enterprise-ready apps = **Software as a Service** (SaaS).
 - 🏆 Oracle Certifications = **Suit-Boot Recognition** (formal, enterprise-ready)  
 
 🌟 With Oracle AI + GenAI, you’re not just learning cloud — you’re building a **future-proof career**. 🌟
+
+---
+
+✍️ Created & Curated by  
+**Muhammad Naveed Ishaque (Eks2)**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+
+🕊️ **Siraat AI Academy**  
+*"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
